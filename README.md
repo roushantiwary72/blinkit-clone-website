@@ -1,1 +1,1 @@
-# blinkit-clone-website
+# blinkit
